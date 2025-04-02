@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Quiz1.py - Animal Quiz Game
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: Di Wu
+# Date: 2.4.2025
 # Description: A simple animal quiz game that checks answers and calculates score
 
 def quiz():
